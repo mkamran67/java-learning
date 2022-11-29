@@ -1,7 +1,0 @@
-./Car.java
-./Human.java
-./Main.java
-./package1/A.java
-./package1/B.java
-./package2/Asub.java
-./package2/C.java
